@@ -86,7 +86,7 @@ p, li { white-space: pre-wrap; }
      <string notr="true">
 border-radius: 50px;      
 border: 2px solid #094065;
-border-color: rgb(0,134,179);
+border-color: rgb(177,0,165);
 </string>
     </property>
     <property name="text">
@@ -118,7 +118,7 @@ border-color: rgb(0,134,179);
      <string notr="true">
 border-radius: 50px;      
 border: 2px solid #094065;
-border-color: rgb(0,134,179);</string>
+border-color: rgb(177,0,165);</string>
     </property>
     <property name="text">
      <string>⏸︎</string>
